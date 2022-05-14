@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![github stats](https://github-readme-stats.vercel.app/api?username=fcancela&show_icons=true&theme=dracula&count_private=true&exclude_repo=laravel-project,vuejs-laravel-project&hide=php)
+![github stats](https://github-readme-stats.vercel.app/api?username=fcancela&show_icons=true&count_private=true)
