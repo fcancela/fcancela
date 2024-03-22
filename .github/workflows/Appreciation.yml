@@ -23,11 +23,15 @@ jobs:
             issue_number: issueNumber,
           }).then(response => {
             const currentBody = response.data.body;
-            const newBody = `${currentBody}\n- Thank you @${context.actor} for the star!`;
-            github.issues.update({
-              owner: context.repo.owner,
-              repo: context.repo.repo,
-              issue_number: issueNumber,
-              body: newBody,
-            });
+            const thankYouNote = `- Thank you @${context.actor} for the star!`;
+            // Check if the user has already been thanked
+            if (!currentBody.includes(`@${context.actor}`)) {
+              const newBody = `${currentBody}\n${thankYouNote}`;
+              github.issues.update({
+                owner: context.repo.owner,
+                repo: context.repo.repo,
+                issue_number: issueNumber,
+                body: newBody,
+              });
+            }
           });
