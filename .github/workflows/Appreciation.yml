@@ -1,0 +1,33 @@
+name: Star Thank You Accumulator
+
+on:
+  watch:
+    types: [started]
+
+jobs:
+  update-thank-you-issue:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Checkout
+      uses: actions/checkout@v2
+
+    - name: Update Issue
+      uses: actions/github-script@v3
+      with:
+        github-token: ${{secrets.GITHUB_TOKEN}}
+        script: |
+          const issueNumber = 1;
+          github.issues.get({
+            owner: context.repo.owner,
+            repo: context.repo.repo,
+            issue_number: issueNumber,
+          }).then(response => {
+            const currentBody = response.data.body;
+            const newBody = `${currentBody}\n- Thank you @${context.actor} for the star!`;
+            github.issues.update({
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              issue_number: issueNumber,
+              body: newBody,
+            });
+          });
