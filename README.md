@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fabian%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20Solutions%20Engineer%20%7C%20Streaming%20Reliability&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fabian Cancela banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fabian%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20and%20streaming%20engineer&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fabian Cancela banner" />
+</p><p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Video+streaming+pipelines+and+observability;FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
 </p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Streaming+observability%2C+delivery+pipelines%2C+edge+resilience;Open+source+tools+%E2%86%92+FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
-</p>
-
 ---
 
-### 📌 Pinned projects
+Pinned projects
+
 <div align="center">
   <table>
     <tr>
@@ -25,25 +23,24 @@
     </tr>
   </table>
 </div>
-
 ---
 
-### 🕹️ Retro mission panel (for fun)
+Repo signals
+
 <div align="center">
   <p>
-    <img src="https://img.shields.io/github/commit-activity/y/fcancela/fcancela?label=commit%20tempo&color=22d3ee&logo=github" alt="Commit tempo" />
-    <img src="https://img.shields.io/github/last-commit/fcancela/fcancela?label=latest%20push&color=a855f7&logo=github" alt="Latest push" />
+    <img src="https://img.shields.io/github/commit-activity/y/fcancela/fcancela?label=commit%20activity&color=22d3ee&logo=github" alt="Commit activity" />
+    <img src="https://img.shields.io/github/last-commit/fcancela/fcancela?label=latest%20commit&color=a855f7&logo=github" alt="Latest commit" />
     <img src="https://img.shields.io/github/followers/fcancela?label=followers&color=10b981&logo=github" alt="Followers" />
     <img src="https://img.shields.io/github/stars/fcancela/fcancela?label=repo%20stars&color=f59e0b&logo=apachespark" alt="Stars" />
   </p>
   <p>
-    <img src="https://img.shields.io/badge/OSS%20stack-FFmpeg%20%7C%20SRT%20%7C%20NATS%20%7C%20OpenTelemetry-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS stack" />
+    <img src="https://img.shields.io/badge/Stack-FFmpeg%20%7C%20SRT%20%7C%20NATS%20%7C%20OpenTelemetry-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Stack" />
   </p>
-
+</div>
 ---
 
-### 📊 Dynamic GitHub footprint
-> Objective signals only — counts and activity trends without exposing private content.
+GitHub metrics
 
 <div align="center">
   <table>
