@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Objective+signals+%7C+no+private+details+leaked;Streaming+observability%2C+delivery+pipelines%2C+edge+resilience;Open+source+tools+%E2%86%92+FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Streaming+observability%2C+delivery+pipelines%2C+edge+resilience;Open+source+tools+%E2%86%92+FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
 </p>
 
 ---
