@@ -1,5 +1,5 @@
-<h1 align="center">👋 Hola, soy <span title="@fcancela">Fernando Cancela</span></h1>
-<p align="center">Media Solutions Engineer focused on streaming reliability and delivery performance.</p>
+<h1 align="center">👋<span title="@fcancela">Fabián Cancela</span></h1>
+<p align="center">Media Solutions Engineer</p>
 
 ---
 
