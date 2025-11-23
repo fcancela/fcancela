@@ -1,8 +1,6 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fabian%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20Solutions%20Engineer%20%7C%20Streaming%20Reliability&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fabian Cancela banner" />
 </p>
-<h1 align="center">👋 Hola, soy <span title="@fcancela">Fabián Cancela</span></h1>
-<p align="center">Media Solutions Engineer focused on streaming reliability and delivery performance.</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Objective+signals+%7C+no+private+details+leaked;Streaming+observability%2C+delivery+pipelines%2C+edge+resilience;Open+source+tools+%E2%86%92+FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
@@ -41,8 +39,6 @@
   <p>
     <img src="https://img.shields.io/badge/OSS%20stack-FFmpeg%20%7C%20SRT%20%7C%20NATS%20%7C%20OpenTelemetry-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="OSS stack" />
   </p>
-  <p><sub>Badges auto-update to keep the console lively without exposing private details.</sub></p>
-</div>
 
 ---
 
