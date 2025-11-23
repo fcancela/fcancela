@@ -1,7 +1,7 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fernando%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20Solutions%20Engineer%20%7C%20Streaming%20Reliability&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fernando Cancela banner" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fabian%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20Solutions%20Engineer%20%7C%20Streaming%20Reliability&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fabian Cancela banner" />
 </p>
-<h1 align="center">👋 Hola, soy <span title="@fcancela">Fernando Cancela</span></h1>
+<h1 align="center">👋 Hola, soy <span title="@fcancela">Fabián Cancela</span></h1>
 <p align="center">Media Solutions Engineer focused on streaming reliability and delivery performance.</p>
 
 <p align="center">
