@@ -3,9 +3,6 @@
 </p><p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Video+streaming+pipelines+and+observability;FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
 </p>
----
-
-Pinned projects
 
 <div align="center">
   <table>
@@ -23,9 +20,6 @@ Pinned projects
     </tr>
   </table>
 </div>
----
-
-Repo signals
 
 <div align="center">
   <p>
@@ -38,9 +32,6 @@ Repo signals
     <img src="https://img.shields.io/badge/Stack-FFmpeg%20%7C%20SRT%20%7C%20NATS%20%7C%20OpenTelemetry-0ea5e9?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="Stack" />
   </p>
 </div>
----
-
-GitHub metrics
 
 <div align="center">
   <table>
