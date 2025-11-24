@@ -38,7 +38,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=fcancela&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
       </td>
       <td>
-        <img src="https://nirzak-streak-stats.vercel.app/?user=fcancela&theme=dark&hide_border=false" alt="GitHub streak" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=fcancela&theme=tokyonight&hide_border=false" alt="GitHub streak" />
       </td>
     </tr>
     <tr>
