@@ -1,7 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,100:3b82f6&text=Fabian%20Cancela&fontAlign=50&fontAlignY=40&desc=Media%20and%20streaming%20engineer&descAlign=50&descAlignY=65&animation=twinkling&fontColor=E0E7FF" alt="Fabian Cancela banner" />
-</p><p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Video+streaming+pipelines+and+observability;FFmpeg+%7C+SRT+%7C+NATS+%7C+OpenTelemetry" alt="Streaming focus typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=38BDF8&center=true&vCenter=true&width=680&lines=Media+Solutions+Engineer;Building+%7C+Media+%7C+Tech+%7C+Together" alt="Streaming focus typing animation" />
 </p>
 
 <div align="center">
@@ -40,7 +38,7 @@
         <img src="https://github-readme-stats.vercel.app/api?username=fcancela&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub stats" />
       </td>
       <td>
-        <img src="https://streak-stats.demolab.com?user=fcancela&theme=tokyonight&hide_border=false" alt="GitHub streak" />
+        <img src="https://nirzak-streak-stats.vercel.app/?user=fcancela&theme=dark&hide_border=false" alt="GitHub streak" />
       </td>
     </tr>
     <tr>
