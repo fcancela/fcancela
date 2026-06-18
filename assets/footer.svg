@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="120" viewBox="0 0 1200 120" fill="none" role="img" aria-label="">
+  <defs>
+    <linearGradient id="fw1" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#F59E0B"/>
+      <stop offset="0.55" stop-color="#6366F1"/>
+      <stop offset="1" stop-color="#0EA5E9"/>
+    </linearGradient>
+    <linearGradient id="fw2" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0EA5E9"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+  <g opacity="0.5">
+    <path fill="url(#fw2)" d="M-1200,44 q150,28 300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 V0 H-1200 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="1200 0" dur="12s" repeatCount="indefinite"/>
+    </path>
+  </g>
+  <g opacity="0.95">
+    <path fill="url(#fw1)" d="M-1200,30 q150,30 300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 t300,0 V0 H-1200 Z">
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-1200 0" dur="9s" repeatCount="indefinite"/>
+    </path>
+  </g>
+</svg>

@@ -7,7 +7,7 @@
 -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,45:6366F1,100:F59E0B&height=210&section=header&text=Fabi%C3%A1n%20Cancela&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Founder%20%C2%B7%20Media%20%26%20Streaming%20Engineer%20%C2%B7%20Live%20Sports%20Tech&descAlignY=56&descSize=18&descAlignX=50" alt="Fabián Cancela" />
+  <img src="https://raw.githubusercontent.com/fcancela/fcancela/main/assets/header.svg" alt="Fabián Cancela — Founder · Media & Streaming Engineer · Live Sports Tech" />
 </p>
 
 <p align="center">
@@ -98,5 +98,5 @@ My north star: **media × entertainment × live events × sports × technology.*
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:F59E0B,55:6366F1,100:0EA5E9&height=120&section=footer" alt="" />
+  <img src="https://raw.githubusercontent.com/fcancela/fcancela/main/assets/footer.svg" alt="" />
 </p>
