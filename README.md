@@ -52,7 +52,7 @@ My north star: **media × entertainment × live events × sports × technology.*
 
 ![FFmpeg](https://img.shields.io/badge/FFmpeg-007808?style=for-the-badge&logo=ffmpeg&logoColor=white)
 ![WebRTC](https://img.shields.io/badge/WebRTC-333333?style=for-the-badge&logo=webrtc&logoColor=white)
-![SRT](https://img.shields.io/badge/SRT-FF6B00?style=for-the-badge&logo=files&logoColor=white)
+![SRT](https://img.shields.io/badge/SRT-FF6B00?style=for-the-badge)
 ![LiveKit](https://img.shields.io/badge/LiveKit-1FD5F9?style=for-the-badge&logo=livekit&logoColor=black)
 ![HLS](https://img.shields.io/badge/HLS%20%2F%20RTMP-EF4444?style=for-the-badge&logo=apple&logoColor=white)
 ![NATS](https://img.shields.io/badge/NATS-27AAE1?style=for-the-badge&logo=natsdotio&logoColor=white)
@@ -69,7 +69,7 @@ My north star: **media × entertainment × live events × sports × technology.*
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![AWS Bedrock](https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Twelve Labs](https://img.shields.io/badge/Twelve%20Labs-7C3AED?style=for-the-badge&logo=v&logoColor=white)
+![Twelve Labs](https://img.shields.io/badge/Twelve%20Labs-7C3AED?style=for-the-badge)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **Cloud & Infra**
