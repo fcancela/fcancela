@@ -91,7 +91,7 @@ My north star: **media × entertainment × live events × sports × technology.*
 ### `>` connect
 
 <p align="left">
-  <!-- TODO: add LinkedIn — <a href="https://www.linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
+  <a href="https://www.linkedin.com/in/fcancela/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://rightful.live"><img src="https://img.shields.io/badge/rightful.live-0EA5E9?style=for-the-badge&logo=rocket&logoColor=white" alt="Rightful" /></a>
   <a href="https://montevideotech.ventures"><img src="https://img.shields.io/badge/Montevideo_Tech_Ventures-6366F1?style=for-the-badge&logo=safari&logoColor=white" alt="Montevideo Tech Ventures" /></a>
   <a href="mailto:fabian@montevideotech.ventures"><img src="https://img.shields.io/badge/Email-F59E0B?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
